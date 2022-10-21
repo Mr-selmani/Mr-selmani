@@ -2,7 +2,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Abdelmoula</b>
 <br>
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
+<img align="right" src="[https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png](https://i.imgur.com/NU5USd2.png)" width="200"/>
 <p aligh="left">
   <p>Hey there, welcome!</br>
   I'm Abdelmoula, Front End developer from <img src="https://i.imgur.com/NU5USd2.png" width="14px"/> <b>Tanger, Morocco</b>.</p>
