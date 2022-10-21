@@ -65,17 +65,8 @@
 - [How to easily get started with ThreeJS - Part 1](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s)
 <!-- HASHNODE_BLOG:END -->
 
-## 📈 &nbsp;Some Github Stats ##
-<span align="left">
 
-![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3Wall&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th3Wall&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
 
 ## 🫂 How to support me ##
-<a href="https://www.buymeacoffee.com/th3wall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
-<a href="https://www.buymeacryptocoffee.xyz/0x8b28b3a02e5f6738c4032b4c8136d25249766907" target="_blank"><img src="https://www.buymeacryptocoffee.xyz/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fembedbadge.c3d8c4bf5cf54409f43e2107e550bb11.svg&w=256&q=75" alt="Buy Me A Crypto Coffee" width="150" ></a>
-<a href="https://coindrop.to/th3wall" target="_blank"><img src="https://coindrop.to/embed-button.png" width="150" alt="Coindrop.to me"></img></a>
+https://www.paypal.com/paypalme/Mrselmani
 
