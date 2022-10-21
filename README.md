@@ -63,5 +63,5 @@
 
 
 ## 🫂 How to support me ##
-https://www.paypal.com/paypalme/Mrselmani
+<a href="https://www.paypal.com/paypalme/Mrselmani "><img alt="PayPal" src="https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png style=flat-square&logo=react&logoColor=white" /></a>
 
