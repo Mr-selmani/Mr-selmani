@@ -5,7 +5,7 @@
 <img align="right" src="https://i.imgur.com/NU5USd2.png" width="200"/>
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Abdelmoula, Front End developer from <img src="https://i.imgur.com/NU5USd2.png" width="14px"/> <b>Tanger, Morocco</b>.</p>
+  I'm Abdelmoula, full stack developerr from <img src="https://i.imgur.com/NU5USd2.png" width="14px"/> <b>Tanger, Morocco</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
@@ -63,5 +63,5 @@
 
 
 ## 🫂 How to support me ##
-<a href="https://www.paypal.com/paypalme/Mrselmani "><img alt="PayPal" src="https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png style=flat-square&logo=react&logoColor=white" /></a>
+<a href="https://www.paypal.com/paypalme/Mrselmani "><img alt="PayPal" src="[https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png style=flat-square&logo=react&logoColor=white](https://cdn-icons-png.flaticon.com/512/2504/2504802.png)" /></a>
 
