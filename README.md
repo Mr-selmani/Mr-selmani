@@ -44,24 +44,6 @@
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
 
-## 🌎 &nbsp;Where to find me ##
-<p>
-  <a href="https://mrselmani.com" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="https://codepen.io/username" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/username/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mrselmani.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
- <a href="https://twitter.com/username" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:contact@mrselmani.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/username/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 
-## ✍🏼 &nbsp;My latest blog articles ##
-<!-- HASHNODE_BLOG:START -->
-- [Moodflix - Your mood, Our suggestions](https://mrselmani.com/blog)
-<!-- HASHNODE_BLOG:END -->
-
-
-
-## 🫂 How to support me ##
 <a href="https://www.paypal.com/paypalme/Mrselmani "><img alt="PayPal" src="[https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png style=flat-square&logo=react&logoColor=white](https://cdn-icons-png.flaticon.com/512/2504/2504802.png)" /></a>
 
