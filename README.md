@@ -8,8 +8,8 @@
   I'm Abdelmoula, full stack developerr from <img src="https://i.imgur.com/NU5USd2.png" width="14px"/> <b>Tanger, Morocco</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
-  ✍🏼 &nbsp;I've recently started writing some articles on <a href="https://mrselmani.com/blog" target="_blank"><u>My brand new blog</u></a>.\
+  🚀  I'm expert in <a style="color:#764ABC" href="https://react.dev/" target="_blank"><u>React.js</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>Next.js</u></a> while continuously staying ahead with the latest advancements.\
+  ✍🏼 &nbsp;I've recently started writing some articles, they will be soon on <a href="https://mrselmani.com/blog" target="_blank"><u>my brand new blog</u></a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
@@ -44,6 +44,8 @@
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
 
-
-<a href="https://www.paypal.com/paypalme/Mrselmani "><img alt="PayPal" src="[https://help.instapage.com/hc/article_attachments/360002241868/PayPal.svg.png style=flat-square&logo=react&logoColor=white](https://cdn-icons-png.flaticon.com/512/2504/2504802.png)" /></a>
+## Support ##
+<a href="https://www.paypal.com/paypalme/Mrselmani ">
+    <img alt="PayPal" src="https://cdn-icons-png.flaticon.com/32/174/174861.png" />
+</a>
 
