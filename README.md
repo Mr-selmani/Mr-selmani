@@ -5,7 +5,7 @@
 <img align="right" src="https://i.imgur.com/NU5USd2.png" width="200"/>
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Abdelmoula, full stack developerr from <img src="https://i.imgur.com/NU5USd2.png" width="14px"/> <b>Tanger, Morocco</b>.</p>
+  I'm Abdelmoula, Full stack developer mainly working on Frontend from <img src="https://i.imgur.com/NU5USd2.png" width="14px"/> <b>Tanger, Morocco</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚀  I'm expert in <a style="color:#764ABC" href="https://react.dev/" target="_blank"><u>React.js</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>Next.js</u></a> while continuously staying ahead with the latest advancements.\
