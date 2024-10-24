@@ -9,7 +9,6 @@
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🚀  I'm expert in <a style="color:#764ABC" href="https://react.dev/" target="_blank"><u>React.js</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>Next.js</u></a> while continuously staying ahead with the latest advancements.\
-  ✍🏼 &nbsp;I've recently started writing some articles, they will be soon on <a href="https://mrselmani.com/blog" target="_blank"><u>my brand new blog</u></a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
@@ -43,9 +42,4 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
-
-## Support ##
-<a href="https://www.paypal.com/paypalme/Mrselmani ">
-    <img alt="PayPal" src="https://cdn-icons-png.flaticon.com/32/174/174861.png" />
-</a>
 
